@@ -12,3 +12,6 @@
 > - [x] Add 2 testimonial cards according to the design
 > - [x] Use CSS to style de card
 > - [x] The page should be responsive on different screen sizes
+
+![screenshot](https://github.com/SantiagoEmanuel/testomonialsPage/blob/master/public/Screenshot%20(98).png "PC view")
+![screenshot](https://github.com/SantiagoEmanuel/testomonialsPage/blob/master/public/Screenshot%20(97).png "Mobile view")
